@@ -1,5 +1,5 @@
 """
-Author: Samuel Tijani
+Author: Samuel O Tijani
 Client for a multi-client chat room.
 """
 from socket import *
